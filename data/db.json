@@ -1,0 +1,40 @@
+{
+    "blogs":[
+        {
+          "id":1,
+          "title":"Todo 1",
+          "body":"Description of todo list 1",
+          "owner":"ROy 1"
+        },
+        {
+          "id":2,
+          "title":"Todo 2",
+          "body":"Description of todo list 2",
+          "owner":"ROy 2"
+        },
+        {
+          "id":3,
+          "title":"Todo 3",
+          "body":"Description of todo list 3",
+          "owner":"ROy 3"
+        },
+        {
+          "id":4,
+          "title":"Todo 4",
+          "body":"Description of todo list 4",
+          "owner":"ROy 4"
+        },
+        {
+          "id":5,
+          "title":"Todo 5",
+          "body":"Description of todo list 5",
+          "owner":"ROy 5"
+        },
+        {
+          "id":6,
+          "title":"Todo 6",
+          "body":"Description of todo list 6",
+          "owner":"ROy 6"
+        }
+    ]
+}
